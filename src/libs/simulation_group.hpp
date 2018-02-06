@@ -20,6 +20,8 @@ extern "C" {
 #define _GOAL_B_END_X    0.86250
 #define _GOAL_B_BEGIN_Y  0.21250
 #define _GOAL_B_END_Y   -0.21250
+#define BOARD_X_SIZE 1.475
+#define BOARD_Y_SIZE 1.325
 
 using namespace std;
 
